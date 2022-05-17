@@ -1,0 +1,4 @@
+shubhnakar presentation 1: 1. APIGate has been done2. User specific user stories are done, Booking, serach done others in progress
+3. Admin user stories started, not all
+4. EF has been implemented
+5. Autherication implemented not done

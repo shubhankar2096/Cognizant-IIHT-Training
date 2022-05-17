@@ -1,0 +1,14 @@
+Account URL: https://techademy.in/cognizanthtd 
+Username: ShubhankarChandrashekhar.Sant@cognizant.com 
+Password: ddada0f2a29345aa
+
+IT Support - itsupport@iiht.com
+
+For Queries - fullstack@iiht.com (put in cc always)
+
+POC -Swati Shefali swati.shefali@iiht.com
+
+VM
+Username - cogdotnet36
+Password - pass@word1
+URL - https://vs.iiht.tech

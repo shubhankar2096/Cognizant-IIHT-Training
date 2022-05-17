@@ -1,0 +1,11 @@
+{
+    "Audience": {
+        "Secret": "Y2F0Y2hlciUyMHdvbmclMjBsb3ZlJTIwLm5ldA==",
+        "Iss": "http://www.c-sharpcorner.com/members/catcher-wong",
+        "Aud": "Catcher Wong"
+    }
+}
+
+For Audience error
+[16:25] Rakesh Pandey
+using Microsoft.FeatureManagement.FeatureFilters;

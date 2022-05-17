@@ -1,0 +1,39 @@
+docker version
+
+docker run -d --hostname my-rabbit --name ecom-rabbit -p 15672:15672 -p 5672:5672 rabbitmq:3-management
+
+
+
+
+https://dev.to/devcrafter91/how-to-install-kubernetes-on-windows-10-55b6 - Check all this configurations before running commands.
+
+Please find below link to install docker and kubernetes on local machine.  
+
+1.       How to install Kubernetes on Windows 10 - DEV Community
+
+2.       Please do the below steps also as authentication is little complicated step for new trainees so need to add below steps , Please find the new updated attached  "recommended.yaml" file only and then distribute this file only
+
+ 
+
+After downloading the attached file, please re run the below commands:
+
+ 
+
+kubectl apply -f .\recommended.yaml
+
+
+>Now run below command to run server
+
+kubectl proxy
+
+> Open the below dashboard page
+
+http://localhost:8001/api/v1/namespaces/kubernetes-dashboard/services/https:kubernetes-dashboard:/proxy/
+
+> Select Skip for authentication
+
+ALL Done
+
+3.       After installation, please execute and verify below two bold commands on CLI to make sure docker and kubernetes are installed successfully:
+
+c:> docker and c:> kubectl

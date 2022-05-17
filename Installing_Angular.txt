@@ -1,0 +1,28 @@
+-----------------------------------------------------
+Installing AngularCLI
+-----------------------------------------------------
+
+Download Node JS -https://nodejs.org/en/download/
+
+npm install -g @angular/cli
+
+ng -v
+
+npm install typescript -- save
+
+tsc
+
+npm install typescript@latest -g (if tsc is not recognized)
+
+-----------------------------------------------------
+Creating Angular Application
+-----------------------------------------------------
+
+ng new nameofproject
+
+ng serve --open --port 4500
+
+npm i @angular/cli@8.3.29(if git is not recognized)
+
+To generate new component - ng generate component component_name
+

@@ -1,0 +1,5 @@
+1. Login(user/admin)
+2. Search flight, book ticket
+3. Booking history, search by PNR, cancel ticket, download ticket
+4. Add and Block airline
+5. Schedule Airline
